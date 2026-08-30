@@ -29,7 +29,7 @@ The internship focused on developing practical cybersecurity skills through a co
 I successfully completed the cybersecurity internship and received a certificate recognizing my performance and completion of the program.
 
 <p align="center">
-  <img src="Certificatee.png" alt="Cybersecurity Internship Certificate" width="750">
+  <img src="Certificate.png" alt="Cybersecurity Internship Certificate" width="750">
 </p>
 
 **Final Evaluation:** 95/100 — Grade A (Excellent)
