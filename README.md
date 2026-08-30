@@ -33,7 +33,7 @@ I successfully completed the cybersecurity internship and received a certificate
 </p>
 
 **Final Evaluation:** 95/100 — Grade A (Excellent)
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ1cHcRsXfAajUrrzervhsUjuYGU09D3Kslfq3HM_i-8PlgBAs9HlgO1HNPpwO74AxNZld5BDvPJpR9/pubembed?start=true&loop=true&delayms=3000" frameborder="0" width="1920" height="1109" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 ---
 
 # 1. Foundational Security & Threat Modeling
