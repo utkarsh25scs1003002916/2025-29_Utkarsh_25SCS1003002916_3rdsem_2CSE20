@@ -31,6 +31,9 @@ I successfully completed the cybersecurity internship and received a certificate
 <p align="center">
   <img src="Internship_Certificate.png" alt="Cybersecurity Internship Certificate" width="750">
 </p>
+<p align="center">
+  <img src="Report.png" alt="Cybersecurity Internship Certificate" width="750">
+</p>
 
 **Final Evaluation:** 95/100 — Grade A (Excellent)
 
