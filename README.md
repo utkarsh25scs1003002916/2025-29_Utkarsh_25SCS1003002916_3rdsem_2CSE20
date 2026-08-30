@@ -292,41 +292,7 @@ Defensive considerations include:
 
 ---
 
-# 7. Repository Structure
-
-```text
-Cybersecurity-Internship/
-│
-├── README.md
-├── certificate.png
-│
-├── Task-1/
-│   ├── README.md
-│   └── screenshots/
-│
-├── Task-2/
-│   ├── README.md
-│   └── screenshots/
-│
-├── Task-3/
-│   ├── README.md
-│   └── screenshots/
-│
-├── Task-4/
-│   ├── README.md
-│   └── screenshots/
-│
-├── Task-5/
-│   ├── README.md
-│   └── screenshots/
-│
-└── Documentation/
-    └── Internship-Presentation.pptx
-```
-
----
-
-# 8. Skills Developed
+# 7. Skills Developed
 
 ## Cybersecurity
 
@@ -373,7 +339,7 @@ Cybersecurity-Internship/
 
 ---
 
-# 9. Performance Evaluation
+# 8. Performance Evaluation
 
 The internship concluded with a formal performance evaluation.
 
@@ -399,7 +365,7 @@ The program evaluator also recognized my ability to understand complex cybersecu
 
 ---
 
-# 10. Evidence & Documentation
+# 9. Evidence & Documentation
 
 Each task contains supporting documentation and screenshots demonstrating the practical work performed during the internship.
 
@@ -415,7 +381,7 @@ Examples include:
 
 ---
 
-# 11. Learning Journey
+# 10. Learning Journey
 
 ```text
 Security Fundamentals
@@ -453,7 +419,7 @@ Security Analysis & Reporting
 
 ---
 
-# 12. Internship Outcome
+# 11. Internship Outcome
 
 This 159-hour internship provided hands-on exposure to the cybersecurity assessment lifecycle, connecting theoretical security concepts with practical laboratory exercises.
 
@@ -511,5 +477,3 @@ The author does not endorse unauthorized access, credential theft, disruption of
 Cybersecurity | CSE Student | Ethical Hacking | Network Security
 
 ---
-
-If you find this repository useful, feel free to explore the individual task folders for detailed methodology, commands, findings, screenshots, and documentation from each stage of the internship.
